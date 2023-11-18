@@ -54,7 +54,7 @@ class LeaderDetailsCard extends StatelessWidget {
                 SizedBox(
                   height: 10,
                 ),
-                Text("Gender : $gender ||",
+                Text("Gender : $gender",
                     style: GoogleFonts.montserrat(
                       fontSize: 10,
                       color: white,
